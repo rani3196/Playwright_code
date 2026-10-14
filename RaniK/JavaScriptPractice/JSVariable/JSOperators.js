@@ -24,13 +24,13 @@ b=c;
 console.log("value of a is :" , a)
 console.log("value of b is :" , b)
 let d = 10
-e =20
-f = 30
-g = 40
+let e =20
+let f = 30
+let g = 40
 console.log((d+e+f+g) / 4)
 let Procost  = 500;
- sellingPri = 750;
- profitPro  = sellingPri -Procost
+let sellingPri = 750;
+let profitPro  = sellingPri -Procost
  console.log(profitPro)
 
 
