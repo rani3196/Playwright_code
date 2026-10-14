@@ -80,5 +80,15 @@ console.log("Value of c is : " + c)
 c =500;
 console.log("Value of c is : " + c)
 
+console.log("********************************************************")
 
+//rules to declare variables name
 
+//1.Variable name should not start with number
+//2.Variable name should not contain special characters except $ and _
+//3.Variable name should not be a reserved keyword
+//4.Variable name should not contain space
+//5.Variable name should be meaningful
+//7.Variable name should be in camelCase
+//8.Variable name should not be a single character
+//9.Varibale name is case Sensitive
